@@ -2,6 +2,11 @@
 
 # Source of Data : 
 - ข้อมูลแผ่นดินไหว ปี 2007 - 2025 ได้รับจาก "กรมอุตุนิยมวิทยา ประเทศไทย" โดยตรง
+- Global : Earthquake with disasters (https://www.emdat.be)
+- Local : Earthquake in Thailand and nearby กองเฝ้าระวังแผ่นดินไหว (https://earthquake.tmd.go.th)
+- WikiPedia :
+- (https://en.wikipedia.org/wiki/List_of_tectonic_plates)
+- (https://en.wikipedia.org/wiki/Indian_plate)
 
 # Research Question
 - จังหวัดหรือภูมิภาคใดของไทยที่มีแผ่นดินไหวเกิดขึ้นบ่อยที่สุด?
