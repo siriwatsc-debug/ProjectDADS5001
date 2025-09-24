@@ -1,6 +1,7 @@
 # Mini-Project : Earthquakes in Thailand
 
-# Source of Data : 
+#L10 
+Source of Data : 
 - ข้อมูลแผ่นดินไหว ปี 2007 - 2025 ได้รับจาก "กรมอุตุนิยมวิทยา ประเทศไทย" โดยตรง
 - Global : Earthquake with disasters (https://www.emdat.be)
 - Local : Earthquake in Thailand and nearby กองเฝ้าระวังแผ่นดินไหว (https://earthquake.tmd.go.th)
@@ -144,6 +145,9 @@
 2. เหตุการณ์แผ่นดินไหวที่บริเวณประเทศเมียร์ม่าทางตอนเหนือของจังหวัดเชียงราย ในปี 2011
 3. เหตุการณ์แผ่นดินไหวที่จังหวัดเชียงราย ในปี 2014
 4. เหตุการณ์แผ่ดินไหวที่ประเทศเมียร์ม่า ทางทิศตะวันออกของจังหวัด แม่ฮ่องสอน ในปี 2025
+
+[ดู README บรรทัด 10](https://github.com/username/repo/blob/main/README_test.md#L10)
+
 
 ......
 
