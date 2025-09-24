@@ -231,3 +231,10 @@
 <img width="428" height="678" alt="image" src="https://github.com/user-attachments/assets/83f3df87-9d9d-4eb7-934d-5aaa0e56babc" />
 
 <img width="1664" height="1181" alt="image" src="https://github.com/user-attachments/assets/12055db2-dedf-4b64-b4db-b3b1a119925f" />
+
+
+
+
+
+[ดูแหล่งข้อมูล](#Part II : แผ่นดินไหวบริเวณประเทศไทย และ ภูมิภาคพื้นที่โดยรอบ (Tiger))
+
