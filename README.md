@@ -109,7 +109,7 @@
 
 
 
-#Appendix : [Link ไปยัง Part1](#Part1)
+#Appendix
 
 - Earthquake basic knowledge (option : การเตรียมตัว และการเฝ้าระวัง) : Scale of Magnitude , Active plates (Tiger)
  
