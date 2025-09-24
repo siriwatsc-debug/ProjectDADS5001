@@ -1,15 +1,26 @@
  # Mini-Project : Earthquakes in Thailand
-# Group name : ใครไหวไปก่อนเลย 🫨🫨
-# Group member : กฤษฎา เมตต์การุณ์จิต, สหภูมิ เกตุแก้ว , ศิริวัฒน์ คาระวุคห์
-# Source of Data : (Dong)
-- ข้อมูลแผ่นดินไหว ปี 2007 - 2025 ได้รับจาก "กรมอุตุนิยมวิทยา ประเทศไทย" โดยตรง
-- จากกรมอุตุนิยมวิทยา https://data.tmd.go.th/dataset/index.php
-- Global : Earthquake with disasters (https://www.emdat.be)
-- Local : Earthquake in Thailand and nearby กองเฝ้าระวังแผ่นดินไหว (https://earthquake.tmd.go.th)
-- WikiPedia :
-- (https://en.wikipedia.org/wiki/List_of_tectonic_plates)
-- (https://en.wikipedia.org/wiki/Indian_plate)
-- https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/
+# Group 
+- name : ใครไหวไปก่อนเลย 🫨🫨
+- member : กฤษฎา เมตต์การุณ์จิต, สหภูมิ เกตุแก้ว , ศิริวัฒน์ คาระวุคห์
+
+# Source of Data : 
+- กรมอุตุนิยมวิทยา ประเทศไทย. (2007–2025). ข้อมูลแผ่นดินไหว.  
+  [https://data.tmd.go.th/dataset/index.php](https://data.tmd.go.th/dataset/index.php)
+
+- Global disasters database (EM-DAT). Université catholique de Louvain (UCLouvain), Belgium.  
+  [https://www.emdat.be](https://www.emdat.be)
+
+- กองเฝ้าระวังแผ่นดินไหว, กรมอุตุนิยมวิทยา.  
+  [https://earthquake.tmd.go.th](https://earthquake.tmd.go.th)
+
+- Wikipedia contributors. *List of tectonic plates*. In: Wikipedia.  
+  [https://en.wikipedia.org/wiki/List_of_tectonic_plates](https://en.wikipedia.org/wiki/List_of_tectonic_plates)
+
+- Wikipedia contributors. *Indian Plate*. In: Wikipedia.  
+  [https://en.wikipedia.org/wiki/Indian_plate](https://en.wikipedia.org/wiki/Indian_plate)
+
+- NOAA National Geophysical Data Center (NGDC). Hazards - Earthquake.  
+  [https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/](https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/)
 
 # Research Question : วิเคราะห์แผ่นดินไหวในประเทศไทย (Film)
 - ข้อมูลแผ่นดินไหวของประเทศไทยเมื่อเทียบกับประเทศในภูมิภาคเดียวกันเป็นอย่างไร
@@ -25,8 +36,8 @@
 <img width="1084" height="804" alt="image" src="https://github.com/user-attachments/assets/f4726d9e-2da0-4543-a624-02fc3506eb3a" />
 
 # Part II : แผ่นดินไหวบริเวณประเทศไทย และ ภูมิภาคพื้นที่โดยรอบ (Tiger)
-[ดูแหล่งข้อมูล](#appendix)
-- การสังเกตแนวโน้ม คือจำนวนเหตุการณ์แผ่นดินไหวในไทยและภูมิภาคใกล้เคียงมีแนวโน้มเพิ่มขึ้นเรื่อย ๆ ตั้งแต่ปี 2007 จนถึงปี 2025 โดยบางปีมีความถี่สูงเป็นพิเศษ โดยเฉพาะปี 2014, 2022, และ 2025.
+
+- การสังเกตแนวโน้ม คือจำนวนเหตุการณ์แผ่นดินไหวในไทยและภูมิภาคใกล้เคียงมีแนวโน้มเพิ่มขึ้นเรื่อย ๆ ตั้งแต่ปี 2007 จนถึงปี 2025 โดยบางปีมีความถี่สูงเป็นพิเศษ โดยเฉพาะปี 2014, 2022, และ 2025. [ดูแหล่งข้อมูล](#appendix)
 - Add trend increasing arrow (Tiger)
   
 <img width="1389" height="590" alt="image" src="https://github.com/user-attachments/assets/b95a9871-0293-4e1b-9548-22b541050004" />
@@ -87,6 +98,7 @@
 # Conclusion : (Dong)
 (Film : Add Link in Github) 
 - จากข้อมูลที่มีแนวโน้มที่สูงขึ้นของการเกิดเหตุการณ์แผ่นดินไหวในประเทศไทยและภูมิภาคโดยรอบ นับตั้งแต่ปี 2007 จนถึงปี 2025
+- ปัจจัยหนึ่งที่มีผลต่อการเกิดแผ่นดินไหวคือการเคลื่อนตัวของแผ่นเปลือกโลก [Plate Movement](#factor)
 - 1. ประเทศ : พม่า, ประเทศไทย และลาว มีแนวโน้มการเกิดแผ่นดินไหวมากกว่าประเทศอื่นในภูมิภาคนี้ 
 - 2. ภูมิภาค : ภาคเหนือมีแนวโน้มการเกิดแผ่นดินไหวสูงสุดและมากกว่าภาคอื่นในประเทศไทย
 - 3. จังหวัด :
@@ -96,7 +108,8 @@
               เมื่อพิจารณาจากข้อมูลมี 43 จังหวัดที่ไม่เคยเกิดแผ่นดินไหวเลยซึ่งส่วนใหญ่อยู่ในภาคตะวันออก และภาคตะวันออกเฉียงเหนือ
 - 4. ความเสียหายจากการเกิดแผ่นดินไหว
      
-- สาเหตุเบื้องต้นของการเกิดแผ่นดินไหวทางกายภาพทางภูมิศาสตร์
+# Factor 
+## สาเหตุเบื้องต้นของการเกิดแผ่นดินไหวทางกายภาพทางภูมิศาสตร์
 -   ข้อมูลสนับสนุน ผลของการเคลี่อนตัวของแผ่นเปลือกโลก Eurasian Plate และ Indian plate ส่งผลกระทบต่อการเกิดแผ่นดินไหวบริเวณ พม่าและไทย
 -   Indian plate มีพลังงานและการเคลื่อนตัว ตั้งแต่ 71 ล้านปีก่อน เคลื่อนตัวเข้าหาแผ่นเปลือกโลกหลัก Eurasian Plate และ แผ่นเปลือกโลกย่อย Burma Plate และ Sunda Plate 
 -   ทิศทางการเคลื่อนที่ทางเหนือ-ตะวันออก ด้วยความเร็วการเคลื่อนตัว 26-36 มม. ต่อ ปี
