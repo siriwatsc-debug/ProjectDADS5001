@@ -53,7 +53,7 @@
 
 - ข้อมูลแสดงจำนวนความถี่ในการเกิดเหตุการณ์แผ่นดินไหวบริเวณประเทศไทย และ พื้นที่แต่ละประเทศโดยรอบ
 
-<img width="990" height="590" alt="image" src="https://github.com/user-attachments/assets/a92663e6-a280-4960-92c2-cd525764af15" />
+<img width="984" height="583" alt="image" src="https://github.com/user-attachments/assets/928dbbec-b4c3-48ce-8173-0d9c0370c0e6" />
 
 ## อันดับประเทศที่มีจำนวนเหตุการณ์แผ่นดินไหวสูงสุด 5 อันดับ 
 
