@@ -322,6 +322,11 @@
 
 note : [ดูแหล่งข้อมูล](#part-ii--แผ่นดินไหวบริเวณประเทศไทย-และ-ภูมิภาคพื้นที่โดยรอบ-tiger)
 
+# Comparison of Earthquake Damages: Thailand and the World
+
+![](graph_total_damage_by_region.png)
+![](table_total_damage_by_region.png)
+
 
 
 
