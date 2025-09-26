@@ -97,7 +97,7 @@
 - เหตุการณ์แผ่นดินไหวที่จังหวัดเชียงราย ในปี 2014
 - เหตุการณ์แผ่ดินไหวที่ประเทศเมียร์ม่า ทางทิศตะวันออกของจังหวัด แม่ฮ่องสอน ในปี 2025
 
-<img width="435" height="735" alt="image" src="https://github.com/user-attachments/assets/7b6e4bee-2688-4ae0-acab-80026febb7f6" />
+<img width="471" height="735" alt="image" src="https://github.com/user-attachments/assets/386051de-c350-4e93-80d0-9b481b66eb07" />
 
 - โดยอัตราความเสียหายเกิดจาก ค่าของ Magnitude และ Depth เป็นตัวบ่งบอกความเสียหายของเหตุการณ์ นั้นๆ ซึ่ง ค่า Depth จะเป็นตัวชี้วัดหลัก กว่า Magnitude เพราะค่า Depth จะส่งผลถึงคลื่นและการกระจายของแรงสั่นสะเทือน
 
