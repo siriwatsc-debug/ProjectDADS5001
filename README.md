@@ -53,7 +53,7 @@
 
 - ข้อมูลแสดงจำนวนความถี่ในการเกิดเหตุการณ์แผ่นดินไหวบริเวณประเทศไทย และ พื้นที่แต่ละประเทศโดยรอบ
 
-<img width="984" height="583" alt="image" src="https://github.com/user-attachments/assets/928dbbec-b4c3-48ce-8173-0d9c0370c0e6" />
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/847737d2-7877-432d-aec6-f6d8aae4b373" />
 
 ## อันดับประเทศที่มีจำนวนเหตุการณ์แผ่นดินไหวสูงสุด 5 อันดับ 
 
@@ -70,7 +70,8 @@
 
 การวิเคราะห์ข้อมูลแผ่นดินไหว (2007–2025) ในประเทศไทย ชี้ชัดว่า ภาคเหนือ เป็นพื้นที่ที่มีการเกิดแผ่นดินไหวสูงสุดอย่างโดดเด่น โดยมีจำนวนเหตุการณ์สูงถึง 3,326 ครั้ง ซึ่งมากกว่าทุกภาคอื่น ๆ ของประเทศรวมกัน ข้อมูลนี้ยืนยันว่า ศูนย์กลางแผ่นดินไหวส่วนใหญ่ในประเทศไทยอยู่ในภาคเหนือ
 
-<img width="989" height="589" alt="image" src="https://github.com/user-attachments/assets/fc8e77da-2773-4551-a980-73107dfc006f" />
+<img width="989" height="589" alt="image" src="https://github.com/user-attachments/assets/52e661fb-d15f-4b19-b794-4740243f9caf" />
+
 
 
 <br></br> 
