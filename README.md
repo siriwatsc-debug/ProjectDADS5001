@@ -85,6 +85,9 @@
 | 4 | 🇮🇳 **อินเดีย (ทะเลอันดามัน)** | <img width="400" alt="ข้อมูลแผ่นดินไหวอินเดีย" src="https://github.com/user-attachments/assets/3ee80454-c810-46d3-8acb-99d5e96beff5" /> |
 | 5 | 🇨🇳 **จีน** | <img width="400" alt="ข้อมูลแผ่นดินไหวจีน" src="https://github.com/user-attachments/assets/3372539a-9ee9-4520-98be-5c3bd1470819" /> |
 
+[ไปยัง Conclusion](#conclusion)
+<br></br>
+
 # Part III
 ## แผ่นดินไหวในประเทศไทยในแต่ละภูมิภาค
 
@@ -228,9 +231,7 @@
 | Rayleigh Wave    | เคลื่อนที่แบบลูกคลื่น (ขึ้น–ลง + หน้า–หลัง) คล้ายคลื่นทะเล | ทำให้พื้นดินสั่นทั้งแนวตั้งและแนวนอน               |
 | Love Wave        | เคลื่อนที่แบบเฉือนแนวนอน (ซ้าย–ขวา)                         | สร้างแรงสั่นสะเทือนด้านข้างที่รุนแรง               |
 
-- Misc :
-- 1. Significant events for 2014, 2022, 2025
-- 2. Other plots to support high light data
+
  
 # Principal 16 plates
 - แผ่นเปลีอกโลกหลัก 16 แผ่น : ประเทศไทย อยู่บนแผ่นเปลือกโลก Eurasian Plate
@@ -251,11 +252,13 @@
 <img width="446" height="839" alt="image" src="https://github.com/user-attachments/assets/abbbe5cf-56cb-4e22-84e9-ed1549021a11" />
 <br></br>
 <img width="1182" height="787" alt="image" src="https://github.com/user-attachments/assets/98fe72d0-743c-4669-a5a6-4d6f0f7a1301" />
+
 [ไปยัง Conclusion](#conclusion)
 
 # Active Fault
 
 <img width="564" height="806" alt="image" src="https://github.com/user-attachments/assets/c1341fcc-8214-480f-add6-9e6d7cc5104e" />
+
 [ไปยัง Conclusion](#conclusion)
 
 [กลับไปยัง Part II](#part-ii)
