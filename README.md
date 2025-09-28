@@ -41,7 +41,8 @@
 
 - การสังเกตแนวโน้ม คือจำนวนเหตุการณ์แผ่นดินไหวในไทยและภูมิภาคใกล้เคียงมีแนวโน้มเพิ่มขึ้นเรื่อย ๆ ตั้งแต่ปี 2007 จนถึงปี 2025 โดยบางปีมีความถี่สูงเป็นพิเศษ โดยเฉพาะปี 2014, 2022, และ 2025. 
 
-<img width="1390" height="590" alt="image" src="https://github.com/user-attachments/assets/eb98d28a-ce01-4d02-baec-492f5f3a373c" />
+<img width="1384" height="583" alt="image" src="https://github.com/user-attachments/assets/f5486389-07a2-4fc9-9c1e-ae9fe1926253" />
+
 
 [ไปยัง Conclusion](#conclusion)
 <br></br> 
@@ -133,7 +134,8 @@
 
 - โดยอัตราความเสียหายเกิดจาก ค่าของ Magnitude และ Depth เป็นตัวบ่งบอกความเสียหายของเหตุการณ์ นั้นๆ ซึ่ง ค่า Depth จะเป็นตัวชี้วัดหลัก กว่า Magnitude เพราะค่า Depth จะส่งผลถึงคลื่นและการกระจายของแรงสั่นสะเทือน [Depth](#ความลึก-depth)
 
-<img width="962" height="547" alt="image" src="https://github.com/user-attachments/assets/c1073688-4055-4b81-9ef1-f2708dbfa809" />
+<img width="993" height="556" alt="image" src="https://github.com/user-attachments/assets/5a09c604-9da9-4205-b946-a8d01d28e3db" />
+
 
 <br></br> 
 - จากแผนภาพจะสามารถ บ่งบอกได้ว่า ยิ่ง Magnitude สูง Depth น้อย ความเสียหายยิ่งมีมูลค่ามาก  และ ถ้ามี Magnitude ที่เท่าๆกัน ถ้าค่า Depth ต่าง ตัวที่น้อยกว่า จะส่งผลกระทบที่มากกว่าด้วย 
