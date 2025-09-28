@@ -231,7 +231,9 @@
 - แผ่นเปลีอกโลกหลัก 16 แผ่น : ประเทศไทย อยู่บนแผ่นเปลือกโลก Eurasian Plate
 
 <img width="1182" height="635" alt="image" src="https://github.com/user-attachments/assets/6598a132-7a92-4d5d-9ccf-cb27b911e19d" />
+<br></br>
 [กลับไปยัง Part I](#part-i)
+[Part I](#part-i)
 
 # Factor 
 ## สาเหตุเบื้องต้นของการเกิดแผ่นดินไหวทางกายภาพทางภูมิศาสตร์
