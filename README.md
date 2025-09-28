@@ -80,7 +80,7 @@
 | อันดับ | ประเทศ | ภาพแสดงข้อมูล |
 |:---:|:---:|:---:|
 | 1 | 🇲🇲 **พม่า** | <img width="400" alt="ข้อมูลแผ่นดินไหวพม่า" src="https://github.com/user-attachments/assets/42d1610e-a026-454b-8173-c5b0e0c1660f" /> |
-| 2 | 🇹🇭 **ไทย** | <img width="523" height="604" alt="image" src="https://github.com/user-attachments/assets/14a71d91-6147-476a-be03-3f4073ba0327" /> |
+| 2 | 🇹🇭 **ไทย** | <img width="400" height="604" alt="image" src="https://github.com/user-attachments/assets/14a71d91-6147-476a-be03-3f4073ba0327" /> |
 | 3 | 🇱🇦 **ลาว** | <img width="400" alt="ข้อมูลแผ่นดินไหวลาว" src="https://github.com/user-attachments/assets/fc5cfd12-18af-4b51-ba7b-008a99fd7ad5" /> |
 | 4 | 🇮🇳 **อินเดีย (ทะเลอันดามัน)** | <img width="400" alt="ข้อมูลแผ่นดินไหวอินเดีย" src="https://github.com/user-attachments/assets/3ee80454-c810-46d3-8acb-99d5e96beff5" /> |
 | 5 | 🇨🇳 **จีน** | <img width="400" alt="ข้อมูลแผ่นดินไหวจีน" src="https://github.com/user-attachments/assets/3372539a-9ee9-4520-98be-5c3bd1470819" /> |
