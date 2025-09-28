@@ -134,7 +134,8 @@
 
 - โดยอัตราความเสียหายเกิดจาก ค่าของ Magnitude และ Depth เป็นตัวบ่งบอกความเสียหายของเหตุการณ์ นั้นๆ ซึ่ง ค่า Depth จะเป็นตัวชี้วัดหลัก กว่า Magnitude เพราะค่า Depth จะส่งผลถึงคลื่นและการกระจายของแรงสั่นสะเทือน [Depth](#ความลึก-depth)
 
-<img width="993" height="556" alt="image" src="https://github.com/user-attachments/assets/5a09c604-9da9-4205-b946-a8d01d28e3db" />
+<img width="940" height="556" alt="image" src="https://github.com/user-attachments/assets/295e8a51-43ee-449f-a389-2891fdc5ea3f" />
+
 
 
 <br></br> 
